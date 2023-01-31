@@ -7,7 +7,7 @@ function mostrar()
 	let nombreIngresado;
 	nombreIngresado = txtIdNombre.value;
 	alert(nombreIngresado);
-}
 
+}
 
 
